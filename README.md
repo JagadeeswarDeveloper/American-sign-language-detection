@@ -1,1 +1,1 @@
-"# American-sign-language-detection" 
+# American-sign-language-detection 
